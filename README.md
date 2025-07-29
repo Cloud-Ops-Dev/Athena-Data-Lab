@@ -27,7 +27,8 @@ In Athena Query Editor:
  ```
 
 ## Screenshots
-![Athena Query 1](images/AthenaQuery1.png)
+![VSCodium](images/VSCodium.png)
+![Athena Query 1](images/AthenaQuery1.png)      
 ![Athena Query 2](images/AthenaQuery2.png)      
 
 ## Troubleshooting
