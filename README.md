@@ -27,8 +27,14 @@ In Athena Query Editor:
  ```
 
 ## Screenshots
+1. VSCodium Screen:
+
 ![VSCodium](images/VSCodium.png)
+2. Athena Query 1:
+
 ![Athena Query 1](images/AthenaQuery1.png)      
+3. Athena Query 2:
+
 ![Athena Query 2](images/AthenaQuery2.png)      
 
 ## Troubleshooting
