@@ -1,0 +1,12 @@
+# Terraform state and lock files
+terraform.tfstate
+terraform.tfstate.backup
+.terraform/
+.tfstate/
+
+# Temporary CSV (since it’s uploaded to S3)
+products.csv
+
+# Other common ignores
+*.log
+*.tfvars
